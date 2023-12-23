@@ -50,6 +50,7 @@ Utilizing the trained model, we predicted the Adjusted Net National Income per C
 ### Visualization of Predictions
 Seaborn and matplotlib were once again instrumental in visually representing our model's predictions. We created visually appealing plots, overlaying predicted values on the actual data, to provide a clear picture of the model's efficacy.
 
+
 ```python
 from sklearn.linear_model import LinearRegression
 data = pd.read_csv('output_file.csv')
