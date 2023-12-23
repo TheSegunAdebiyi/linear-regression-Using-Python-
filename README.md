@@ -1,6 +1,7 @@
 # linear-regression-Using-Python
 Analyzing and Predicting Adjusted Net National Income per Capita in Nigeria: A Python Data Science Journey
 ### Project Overview 
+
 In the realm of data science, understanding and predicting economic indicators play a pivotal role in decision-making processes. In this project, we delved into the intricacies of Nigeria's economic landscape by exploring the Adjusted Net National Income (ANNI) per capita. Employing Python, along with libraries such as pandas, seaborn, matplotlib, and sklearn, we embarked on a comprehensive analysis and prediction journey.
 ### Data Source 
 World Bank staff estimates based on sources and methods in World Bank's "The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium" ( 2011 ).
