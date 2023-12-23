@@ -39,6 +39,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 %matplotlib inline
 ```
+![Screenshot 2023-12-23 023943](https://github.com/TheSegunAdebiyi/linear-regression-Using-Python-/assets/107259515/0b8785be-0827-4111-ae9f-32eb27189e3c)
 
 ### Linear Regression Modeling
 -With a clean dataset in hand, we utilized the scikit-learn library to implement a linear regression model. This involved splitting the data into training and testing sets to assess the model's performance accurately.
