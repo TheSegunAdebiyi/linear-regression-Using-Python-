@@ -62,6 +62,7 @@ lri = LinearRegression()
 lri.fit(data[['Year']].values, data.Value)
 lri.predict([[2021]])
 ```
+![Screenshot 2023-12-19 050849](https://github.com/TheSegunAdebiyi/linear-regression-Using-Python-/assets/107259515/626f1195-f83a-46e3-a9e9-5a9145b015ed)
 
 ### Conclusion 
 
